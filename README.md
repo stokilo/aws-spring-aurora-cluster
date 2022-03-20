@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 #### What is it?
 
 This is a sample Spring Cloud application to test the Aurora RDS in multi-AZ scenario.
